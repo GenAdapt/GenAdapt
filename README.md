@@ -3,7 +3,6 @@ GenAdapt is a novel self-adaptation approach that resolves congestion in IoT sys
 
 # Content description
 - GenAdapt: contains GenAdapt and the software we had developed for this project
-- 
 - Experiments: contains the scripts necessary to replicate our experiments
 - Results: contains the results of our experiments
 
@@ -29,6 +28,8 @@ GenAdapt is a novel self-adaptation approach that resolves congestion in IoT sys
 - Step 4.1. Run receiver scripts
 - Step 4.2. Run sender scripts
 
+## Virtual Machine
+https://drive.google.com/file/d/1rbRZYqj3YH_yjyT9GE-K9XTFl9Xmbix4/view
 
 ## Licensing
 
