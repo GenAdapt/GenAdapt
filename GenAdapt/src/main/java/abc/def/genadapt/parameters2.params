@@ -82,6 +82,7 @@ gp.koza.xover.source.1 = same
 
 # picks certain kinds of nodes with different probabilities
 gp.koza.xover.ns.0 = ec.gp.koza.KozaNodeSelector
+gp.koza.xover.ns.1 = ec.gp.koza.KozaNodeSelector
 gp.koza.ns.terminals = 0.1
 gp.koza.ns.nonterminals = 0.9
 gp.koza.ns.root = 0.0
