@@ -2,11 +2,17 @@
 GenAdapt is a novel self-adaptation approach that resolves congestion in IoT systems which uses software-defined network architecture. GenAdapt is based on genetic programming. Using the status of network as input, GenAdapt searches for a formula which resolves congestion with the smallest cost and delay. Once the formula is found, the topology of network is updated by changing the weights of links and flows are rerouted.
 
 # Content description
-- GenAdapt: contains GenAdapt and the software we had developed for this project
-- Experiments: contains the scripts necessary to replicate our experiments
-- Results: contains the results of our experiments
+- GenAdapt: contains the codes of GenAdapt and ECJ, parameters, and the files we need to run the experiments
+- Experiments: contains the scripts necessary to replicate our experiments, the topologies and information of flows in the experiments
+- Results: contains the results of our experiments and the statistical test of them.
 
 ## Prerequisite
+- Machine Information:
+
+  Two machines: One for ONOS and the other for Mininet and D-ITG.
+  * Operating System: Ubuntu-18.04
+  *  CPU: 4
+  *  Memory: 15
 - ONOS: (https://onosproject.org/)
   * Version: 1.15.0
   * Installation: (https://wiki.onosproject.org/display/ONOS/Getting+the+ONOS+core+source+code+using+git+and+Gerrit)
