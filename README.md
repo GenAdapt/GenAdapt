@@ -45,31 +45,23 @@ Note:
 - All artifacts are located under the /opt directory.
 
 How to perform experiments with DICES?
-
-Step 0. Import the virtual machine
-
-Step 1. Login
-- Password: password
-
-Step 2. Run SDN controllers
-- Double-click on the "Open ONOS" icon
-- You will see "onos>" command line
-
-Step 3. Build a network
-- Double-click on the "Build Network" icon
-- You will see "mininet>" command line
-
-Step 4. Generate traffic flows
-
-Step 4.1. Run receivers
-- Double-click on the "Run Receivers" icon
-
-Step 4.2. Run senders
-- Double-click on the "Run Senders" icon
-- You will see eight "Finished sending packets" messages
-
-Step 5: Analyze Results
-- Double-click on the "Analyze Packets" icon
+- Step 0. Import the virtual machine
+- Step 1. Login
+ * Password: password
+- Step 2. Run SDN controllers
+ * Double-click on the "Open ONOS" icon
+ * You will see "onos>" command line
+- Step 3. Build a network
+ * Double-click on the "Build Network" icon
+ * You will see "mininet>" command line
+- Step 4. Generate traffic flows
+- Step 4.1. Run receivers
+ * Double-click on the "Run Receivers" icon
+- Step 4.2. Run senders
+ * Double-click on the "Run Senders" icon
+ * You will see eight "Finished sending packets" messages
+- Step 5: Analyze Results
+ * Double-click on the "Analyze Packets" icon
 
 
 
