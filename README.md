@@ -59,7 +59,7 @@ How to perform experiments with DICES?
    * Double-click on the "Run Receivers" icon
 - Step 4.2. Run senders
    * Double-click on the "Run Senders" icon
-   * You will see eight "Finished sending packets" messages
+   * You will see twelve "Finished sending packets" messages
 - Step 5: Analyze Results
    * Double-click on the "Analyze Packets" icon
 
