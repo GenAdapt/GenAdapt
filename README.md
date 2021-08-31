@@ -29,7 +29,34 @@ GenAdapt is a novel self-adaptation approach that resolves congestion in IoT sys
 - Step 4.2. Run sender scripts
 
 ## Virtual Machine
-https://drive.google.com/file/d/1rbRZYqj3YH_yjyT9GE-K9XTFl9Xmbix4/view
+Virtual Machine: VirtualBox https://www.virtualbox.org/
+- Version: 6.0
+Virtual Image: Preconfigured virtual machine image
+- Download: https://drive.google.com/file/d/1rbRZYqj3YH_yjyT9GE-K9XTFl9Xmbix4/view
+Note: 
+- Experiment results obtained from this virtual setting will be different from the results described in our paper due to the limited processing power of a virtual machine. To reproduce our experiment results, please follow the "Installation instructions" section.
+- All artifacts are located under the /opt directory.
+
+How to perform experiments with DICES?
+Step 0: Import the virtual machine
+Step 1: Login
+- Password: password
+Step 2： Run SDN controllers
+- Double-click on the "Open ONOS" icon
+- You will see "onos>" command line
+Step 3: Build a network
+- Double-click on the "Build Network" icon
+- You will see "mininet>" command line
+Step 4: Generate traffic flows
+Step 4.1: Run receivers
+- Double-click on the "Run Receivers" icon
+Step 4.2: Run senders
+- Double-click on the "Run Senders" icon
+- You will see eight "Finished sending packets" messages
+Step 5: Analyze Results
+- Double-click on the "Analyze Packets" icon
+
+
 
 ## Licensing
 
