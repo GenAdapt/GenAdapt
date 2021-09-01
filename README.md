@@ -13,7 +13,7 @@ GenAdapt is a novel self-adaptation approach that resolves congestion in IoT sys
   * Operating System: Ubuntu-18.04
   *  CPU: 4
   *  Memory: 15GB
-- ONOS: (https://onosproject.org/)
+- ONOS: (https://repo1.maven.org/maven2/org/onosproject/onos-releases/1.15.0/onos-1.15.0.tar.gz)
   * Version: 1.15.0
   * Installation: (https://wiki.onosproject.org/display/ONOS/Getting+the+ONOS+core+source+code+using+git+and+Gerrit)
 - Mininet: (http://mininet.org/)
@@ -44,7 +44,7 @@ Note:
 - Experiment results obtained from this virtual setting will be different from the results described in our paper due to the limited processing power of a virtual machine. To reproduce our experiment results, please follow the "Installation instructions" section.
 - All artifacts are located under the /opt directory.
 
-How to perform experiments with DICES?
+How to perform experiments with GenAdapt?
 - Step 0. Import the virtual machine
 - Step 1. Login
    * Password: password
