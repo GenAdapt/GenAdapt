@@ -35,7 +35,8 @@ GenAdapt is a novel self-adaptation approach that resolves congestion in IoT sys
 - Step 4.2. Run sender scripts
 
 ## Virtual Machine
-Virtual Machine: VirtualBox https://www.virtualbox.org/
+Virtual Machine: 
+- VirtualBox https://www.virtualbox.org/
 - Version: 6.0
 Virtual Image: Preconfigured virtual machine image
 - Download: https://drive.google.com/file/d/1rbRZYqj3YH_yjyT9GE-K9XTFl9Xmbix4/view
@@ -67,7 +68,7 @@ How to perform experiments with GenAdapt?
 
 ## Licensing
 
-Aristeo is licensed under the GPLv2 or later license.
+GenAdapt is licensed under the GPLv2 or later license.
 
 
 <!--
