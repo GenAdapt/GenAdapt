@@ -31,8 +31,8 @@ GenAdapt is a novel self-adaptation approach that resolves congestion in IoT sys
   * Installation and activation: (https://wiki.onosproject.org/display/ONOS/Managing+ONOS+applications)
 - Step 3. Run Mininet scripts (and configure ONOS network topology for EMC network)
 - Step 4. Run D-ITG scripts
-- Step 4.1. Run receiver scripts
-- Step 4.2. Run sender scripts
+  - Step 4.1. Run receiver scripts
+  - Step 4.2. Run sender scripts
 
 ## Virtual Machine
 Virtual Machine: 
@@ -56,11 +56,11 @@ How to perform experiments with GenAdapt?
    * Double-click on the "Build Network" icon
    * You will see "mininet>" command line
 - Step 4. Generate traffic flows
-- Step 4.1. Run receivers
-   * Double-click on the "Run Receivers" icon
-- Step 4.2. Run senders
-   * Double-click on the "Run Senders" icon
-   * You will see twelve "Finished sending packets" messages
+  - Step 4.1. Run receivers
+     * Double-click on the "Run Receivers" icon
+  - Step 4.2. Run senders
+     * Double-click on the "Run Senders" icon
+     * You will see twelve "Finished sending packets" messages
 - Step 5: Analyze Results
    * Double-click on the "Analyze Packets" icon
 
