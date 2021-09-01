@@ -37,6 +37,7 @@ GenAdapt is a novel self-adaptation approach that resolves congestion in IoT sys
 ## Virtual Machine
 Virtual Machine: [VirtualBox](https://www.virtualbox.org/)
 - Version: 6.0
+
 Virtual Image: [Preconfigured virtual machine image](https://drive.google.com/file/d/1rbRZYqj3YH_yjyT9GE-K9XTFl9Xmbix4/view)
 
 Note: 
