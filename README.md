@@ -9,10 +9,10 @@ GenAdapt is a novel self-adaptation approach that resolves congestion in IoT sys
 ## Prerequisite
 - Machine Information:
 
-  Two machines: One for ONOS and the other for Mininet and D-ITG.
-  * Operating System: Ubuntu-18.04
+  Two virtual machines: One for ONOS and the other for Mininet and D-ITG.
+  *  Operating System: Ubuntu-18.04
   *  CPU: 4
-  *  Memory: 15GB
+  *  Memory: 32GB
 - [ONOS](https://repo1.maven.org/maven2/org/onosproject/onos-releases/1.15.0/onos-1.15.0.tar.gz): 
   * Version: 1.15.0
   * Installation: (https://wiki.onosproject.org/display/ONOS/Getting+the+ONOS+core+source+code+using+git+and+Gerrit)
