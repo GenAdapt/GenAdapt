@@ -13,13 +13,13 @@ GenAdapt is a novel self-adaptation approach that resolves congestion in IoT sys
   * Operating System: Ubuntu-18.04
   *  CPU: 4
   *  Memory: 15GB
-- ONOS: (https://onosproject.org/)
+- [ONOS](https://repo1.maven.org/maven2/org/onosproject/onos-releases/1.15.0/onos-1.15.0.tar.gz): 
   * Version: 1.15.0
   * Installation: (https://wiki.onosproject.org/display/ONOS/Getting+the+ONOS+core+source+code+using+git+and+Gerrit)
-- Mininet: (http://mininet.org/)
+- [Mininet](http://mininet.org/): 
   * Version: 2.3.0
   * Installation: http://mininet.org/download/
-- D-ITG: (http://www.grid.unina.it/software/ITG/)
+- [D-ITG](http://www.grid.unina.it/software/ITG/): 
    * Version: 2.8.1
    * Installation: (http://www.grid.unina.it/software/ITG/download.php)
 
@@ -31,20 +31,20 @@ GenAdapt is a novel self-adaptation approach that resolves congestion in IoT sys
   * Installation and activation: (https://wiki.onosproject.org/display/ONOS/Managing+ONOS+applications)
 - Step 3. Run Mininet scripts (and configure ONOS network topology for EMC network)
 - Step 4. Run D-ITG scripts
-- Step 4.1. Run receiver scripts
-- Step 4.2. Run sender scripts
+  - Step 4.1. Run receiver scripts
+  - Step 4.2. Run sender scripts
 
 ## Virtual Machine
-Virtual Machine: VirtualBox https://www.virtualbox.org/
+Virtual Machine: [VirtualBox](https://www.virtualbox.org/)
 - Version: 6.0
-Virtual Image: Preconfigured virtual machine image
-- Download: https://drive.google.com/file/d/1rbRZYqj3YH_yjyT9GE-K9XTFl9Xmbix4/view
+
+Virtual Image: [Preconfigured virtual machine image](https://drive.google.com/file/d/1rbRZYqj3YH_yjyT9GE-K9XTFl9Xmbix4/view)
 
 Note: 
 - Experiment results obtained from this virtual setting will be different from the results described in our paper due to the limited processing power of a virtual machine. To reproduce our experiment results, please follow the "Installation instructions" section.
 - All artifacts are located under the /opt directory.
 
-How to perform experiments with DICES?
+How to perform experiments with GenAdapt?
 - Step 0. Import the virtual machine
 - Step 1. Login
    * Password: password
@@ -55,11 +55,11 @@ How to perform experiments with DICES?
    * Double-click on the "Build Network" icon
    * You will see "mininet>" command line
 - Step 4. Generate traffic flows
-- Step 4.1. Run receivers
-   * Double-click on the "Run Receivers" icon
-- Step 4.2. Run senders
-   * Double-click on the "Run Senders" icon
-   * You will see twelve "Finished sending packets" messages
+  - Step 4.1. Run receivers
+     * Double-click on the "Run Receivers" icon
+  - Step 4.2. Run senders
+     * Double-click on the "Run Senders" icon
+     * You will see twelve "Finished sending packets" messages
 - Step 5: Analyze Results
    * Double-click on the "Analyze Packets" icon
 
@@ -67,7 +67,7 @@ How to perform experiments with DICES?
 
 ## Licensing
 
-Aristeo is licensed under the GPLv2 or later license.
+GenAdapt is licensed under the GPLv2 or later license.
 
 
 <!--
